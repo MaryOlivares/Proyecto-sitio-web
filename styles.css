@@ -51,7 +51,7 @@ li a.active, li a:hover{
     display: none;
 }
 body{
-    background: url(/Imagenes/Imagen_fondo_contacto.jpg) no-repeat;
+    background: url(/Imagenes/Fondo-naranja-degradado.png) no-repeat;
     background-size: 100vw 100vh;
     background-attachment: fixed;
     margin: 0;
