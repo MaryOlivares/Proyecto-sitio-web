@@ -51,8 +51,8 @@ li a.active, li a:hover{
     display: none;
 }
 body{
-    background: url(/Imagenes/Fondo-naranja-degradado.png) no-repeat;
-    background-size: 100vw 100vh;
+    background: rgb(238,171,107);
+    background: linear-gradient(90deg, rgba(238,171,107,1) 0%, rgba(255,243,219,1) 38%, rgba(255,243,219,1) 72%, rgba(238,171,107,1) 100%);
     background-attachment: fixed;
     margin: 0;
 }
